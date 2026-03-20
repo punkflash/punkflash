@@ -1,5 +1,5 @@
 # Hi, I'm Ruslan 👋
-💫 About Me: <br><br>💻 I work with: Data Science, Machine Learning, <br>📍 Location: Slovakia<br><br>🚀 About Me<br><br>📚 Currently learning: Python, PyTorch, SQL, scikit-learn<br><br>🤝 Open to: collaboration / freelance / full-time opportunities
+💫 About Me: <br><br>💻 I work with: Data Science, Machine Learning, <br>📍 Location: Slovakia<br><br> 📚 Currently learning: Python, PyTorch, SQL, scikit-learn<br><br>🤝 Open to: collaboration / freelance / full-time opportunities
 
 
 ## 🌐 Socials:
